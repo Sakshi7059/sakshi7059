@@ -1,6 +1,6 @@
 💫 Hi 👋, I'm Sakshi Bhagwat
 
-A passionate Full-Stack Developer | MERN Stack Developer | Data Science & ML Enthusiast from 
+A passionate Full-Stack Developer | MERN Stack Developer | Data Science & ML Enthusiast from India
 
 📩 Email Me: sakshibhagwat0806@gmail.com
 
